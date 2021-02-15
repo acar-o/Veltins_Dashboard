@@ -337,8 +337,6 @@ var lineChart = new Chart(line, {
       }]
     }
   }
-
-
 });
 //Aktion Vergleichen Chart 2 ================
 
